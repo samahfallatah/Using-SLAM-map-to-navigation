@@ -1,7 +1,7 @@
 # Using-SLAM-map-to-navigation
 **_1. Install VMWare with ubuntu 18.04 and ROS Melodic._**
 
-**_2. follow this steps._**
+**_2. follow steps belowe._**
 
 **_3. Open a terminal and use the following commands for installing ROS 1 on remote PC:_**
 ```
